@@ -1,4 +1,4 @@
-# Company Data Pipeline
+# Google BigQuery Data Pipeline
 **Tech Stack: Google BigQuery - Google Data Studio / "Looker" Studio - SQL - Diagrams**
 
 A remote database and pipeline hosted in the Google Cloud platform.  
